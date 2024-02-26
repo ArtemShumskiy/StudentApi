@@ -1,0 +1,12 @@
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\bin\Debug\net8.0\StudentManagement.Contracts.deps.json
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\bin\Debug\net8.0\StudentManagement.Contracts.dll
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\bin\Debug\net8.0\StudentManagement.Contracts.pdb
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\obj\Debug\net8.0\StudentManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\obj\Debug\net8.0\StudentManagement.Contracts.AssemblyInfoInputs.cache
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\obj\Debug\net8.0\StudentManagement.Contracts.AssemblyInfo.cs
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\obj\Debug\net8.0\StudentManagement.Contracts.csproj.CoreCompileInputs.cache
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\obj\Debug\net8.0\StudentManagement.Contracts.sourcelink.json
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\obj\Debug\net8.0\StudentManagement.Contracts.dll
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\obj\Debug\net8.0\refint\StudentManagement.Contracts.dll
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\obj\Debug\net8.0\StudentManagement.Contracts.pdb
+E:\Deveopment\StudentAPI\StudentManagement.Contracts\obj\Debug\net8.0\ref\StudentManagement.Contracts.dll

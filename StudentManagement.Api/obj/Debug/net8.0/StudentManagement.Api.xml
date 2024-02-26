@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StudentManagement.Api</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:StudentManagement.Api.Controllers.CoursesController.CreateCourse(StudentManagement.Contracts.Http.CreateCourseRequest,System.Threading.CancellationToken)" -->
+        <member name="M:StudentManagement.Api.Controllers.CoursesController.GetCourseById(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Get course by id
+            </summary>
+            <param name="id">Course identifier</param>
+            <param name="cancellationToken">Cancellation Token</param>
+            <returns>Course information</returns>
+            <response code="200">Returns course information</response>
+            <response code="404">If course with given id not found</response>
+            <response code="500">If something went wrong</response>
+        </member>
+        <member name="M:StudentManagement.Api.Controllers.CoursesController.AssignToStudent(System.String,StudentManagement.Contracts.Http.AssignCourseRequest,System.Threading.CancellationToken)">
+            <summary>
+            Assign course to student
+            </summary>
+            <param name="courseId">Course identifier</param>
+            <param name="request">Assign information</param>
+            <param name="cancellationToken">Cancellation Token</param>
+            <returns>Nothing</returns>
+            <remarks>
+            
+            Sample request:
+            
+              POST /coursess/{courseId}
+              {
+                "email": "student@example"
+              }
+            
+            </remarks>
+            <response code="204">If course assigned successfully</response>
+            <response code="400">If request is invalid</response>
+            <response code="404">If course with given id not found</response>
+            <response code="500">If something went wrong</response>
+        </member>
+        <member name="M:StudentManagement.Api.Controllers.CoursesController.UpdateCourseStatus(System.String,StudentManagement.Contracts.Http.UpdateCourseStatusRequest,System.Threading.CancellationToken)">
+            <summary>
+            Update course status
+            </summary>
+            <param name="courseId">Course identifier</param>
+            <param name="request">Update information</param>
+            <param name="cancellationToken">Cancellation Token</param>
+            <returns>Nothing</returns>
+            <remarks>
+            
+            Sample request:
+            
+             PATCH /courses/{courseId}/status
+             {
+                "status": "InProgress"
+             }
+            
+            </remarks>
+            <response code="204">If course status updated successfully</response>
+            <response code="404">If course with given id not found</response>
+            <response code="500">If something went wrong</response>
+        </member>
+    </members>
+</doc>
