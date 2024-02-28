@@ -14,7 +14,7 @@ using ContractsCourseStatus = StudentManagement.Contracts.Models.CourseStatus;
 
 namespace StudentManagement.Domain.Repositories
 {
-    internal interface IRepository
+    public interface IRepository
     {
         Task<DatabaseCourse> CreateCourse(string title, string description, CancellationToken cancellationToken = default);
         Task<DatabaseCourse> GetCourseById(string id, CancellationToken cancellationToken = default);
@@ -23,7 +23,7 @@ namespace StudentManagement.Domain.Repositories
         Task UpdateCourseStatus(string courseId, ContractsCourseStatus status, CancellationToken cancellationToken = default);
     }
 
-    internal class Repository : IRepository
+    public class Repository : IRepository
     {
         private readonly StudentManagementContext _dbContext;
          private readonly IDateTimeProvider _dateTimeProvider;

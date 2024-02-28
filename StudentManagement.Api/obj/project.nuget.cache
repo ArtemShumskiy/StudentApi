@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "krwx4ucfFA6HvVt1UUYP/Dn/nBW3M+iQvi7gkvBLy5O1Jas2+dBFknkm0RZNKj3SyS5IplkdPeMxgaVgLEMxRQ==",
+  "dgSpecHash": "OOMXv/EgXzgFdCV1fZ7gCrHljDjHaHeoQ9ESBWqBknRRKQOsbb7+kZhjB9+1hSazN/oK7ORVmk8SUFpVqd9T7w==",
   "success": true,
-  "projectFilePath": "E:\\Deveopment\\StudentAPI\\StudentManagement.Api\\StudentManagement.Api.csproj",
+  "projectFilePath": "e:\\Deveopment\\StudentAPI\\StudentManagement.Api\\StudentManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",

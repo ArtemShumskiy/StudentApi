@@ -2,12 +2,12 @@ using System;
 
 namespace StudentManagement.Domain.Helpers
 {
-    internal interface IDateTimeProvider
+    public interface IDateTimeProvider
     {
         DateTime Now { get; }
     }
 
-    internal class DateTimeProvider : IDateTimeProvider
+    public class DateTimeProvider : IDateTimeProvider
     {
         public DateTime Now => DateTime.UtcNow;
     }

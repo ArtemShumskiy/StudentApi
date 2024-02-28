@@ -22,7 +22,7 @@ namespace StudnetManagement.Domain.Commands
         public string Id { get; init; }
     }
 
-    internal class CreateCoureCommandHandler : IRequestHandler<CreateCourseCommand, CreateCourseResult>
+    public class CreateCoureCommandHandler : IRequestHandler<CreateCourseCommand, CreateCourseResult>
     {
         private readonly IRepository _repository;
 

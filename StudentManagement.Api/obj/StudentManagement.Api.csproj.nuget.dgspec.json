@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Deveopment\\StudentAPI\\StudentManagement.Api\\StudentManagement.Api.csproj": {}
+    "e:\\Deveopment\\StudentAPI\\StudentManagement.Api\\StudentManagement.Api.csproj": {}
   },
   "projects": {
-    "E:\\Deveopment\\StudentAPI\\StudentManagement.Api\\StudentManagement.Api.csproj": {
+    "e:\\Deveopment\\StudentAPI\\StudentManagement.Api\\StudentManagement.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Deveopment\\StudentAPI\\StudentManagement.Api\\StudentManagement.Api.csproj",
+        "projectUniqueName": "e:\\Deveopment\\StudentAPI\\StudentManagement.Api\\StudentManagement.Api.csproj",
         "projectName": "StudentManagement.Api",
-        "projectPath": "E:\\Deveopment\\StudentAPI\\StudentManagement.Api\\StudentManagement.Api.csproj",
+        "projectPath": "e:\\Deveopment\\StudentAPI\\StudentManagement.Api\\StudentManagement.Api.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Deveopment\\StudentAPI\\StudentManagement.Api\\obj\\",
+        "outputPath": "e:\\Deveopment\\StudentAPI\\StudentManagement.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -29,8 +29,8 @@
               "E:\\Deveopment\\StudentAPI\\StudentManagement.Contracts\\StudentManagement.Contracts.csproj": {
                 "projectPath": "E:\\Deveopment\\StudentAPI\\StudentManagement.Contracts\\StudentManagement.Contracts.csproj"
               },
-              "E:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj": {
-                "projectPath": "E:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj"
+              "e:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj": {
+                "projectPath": "e:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "E:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj": {
+    "e:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj",
+        "projectUniqueName": "e:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj",
         "projectName": "StudentManagement.Domain",
-        "projectPath": "E:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj",
+        "projectPath": "e:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\obj\\",
+        "outputPath": "e:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

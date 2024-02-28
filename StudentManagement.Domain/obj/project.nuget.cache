@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "It5cHhTG7f2Rudw+Su7Kmy2nzPB9Cg/gSW71zUkM9yrubSmVejsuwrMiLnqYYhUAzOecvnAM/JnOUxXWHUhjYA==",
+  "dgSpecHash": "IFciAWEfHIECuTUs7FsqgWYQipAndvLP1BkCNqnPzOSjudnTvW4DgDX1xdaJsNE9w0168GMhypGhdHz25c+OeA==",
   "success": true,
-  "projectFilePath": "E:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj",
+  "projectFilePath": "e:\\Deveopment\\StudentAPI\\StudentManagement.Domain\\StudentManagement.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

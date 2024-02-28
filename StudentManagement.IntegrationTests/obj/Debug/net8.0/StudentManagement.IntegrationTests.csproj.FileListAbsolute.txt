@@ -1,0 +1,8 @@
+e:\Deveopment\StudentAPI\StudentManagement.IntegrationTests\bin\Debug\net8.0\CoverletSourceRootsMapping_StudentManagement.IntegrationTests
+e:\Deveopment\StudentAPI\StudentManagement.IntegrationTests\obj\Debug\net8.0\StudentManagement.IntegrationTests.csproj.AssemblyReference.cache
+e:\Deveopment\StudentAPI\StudentManagement.IntegrationTests\obj\Debug\net8.0\MvcTestingAppManifest.json
+e:\Deveopment\StudentAPI\StudentManagement.IntegrationTests\obj\Debug\net8.0\StudentManagement.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+e:\Deveopment\StudentAPI\StudentManagement.IntegrationTests\obj\Debug\net8.0\StudentManagement.IntegrationTests.AssemblyInfoInputs.cache
+e:\Deveopment\StudentAPI\StudentManagement.IntegrationTests\obj\Debug\net8.0\StudentManagement.IntegrationTests.AssemblyInfo.cs
+e:\Deveopment\StudentAPI\StudentManagement.IntegrationTests\obj\Debug\net8.0\StudentManagement.IntegrationTests.csproj.CoreCompileInputs.cache
+e:\Deveopment\StudentAPI\StudentManagement.IntegrationTests\obj\Debug\net8.0\StudentManagement.IntegrationTests.sourcelink.json

@@ -22,7 +22,7 @@ namespace StudentManagement.Domain.Commands
     {
     }
 
-    internal class AssignCourseToStudentCommandHandler 
+    public class AssignCourseToStudentCommandHandler 
     {
         private readonly IRepository _repository;
 
@@ -31,7 +31,11 @@ namespace StudentManagement.Domain.Commands
             _repository = repository;
         }
 
-//override
+        public AssignCourseToStudentCommandHandler(IRepository repository, AssignCourseToStudentCommandHandler assignCourseToStudentCommandHandler) : this(repository)
+        {
+        }
+
+        //override
         protected  async Task<AssignCourseToStudentCommandResult> HandleInternal(AssignCourseToStudentCommand request, CancellationToken cancellationToken)
         {
             DatabaseCourse course = await _repository.GetCourseById(request.CourseId, cancellationToken);

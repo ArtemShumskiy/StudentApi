@@ -2,12 +2,12 @@ using System;
 
 namespace StudentManagement.Domain.Helpers
 {
-    internal interface IIdentifierGenerator
+    public interface IIdentifierGenerator
     {
         Guid Generate();
     }
 
-    internal class IdentifierGenerator : IIdentifierGenerator
+    public class IdentifierGenerator : IIdentifierGenerator
     {
         public Guid Generate()
         {
